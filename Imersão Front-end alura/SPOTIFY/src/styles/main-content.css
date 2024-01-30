@@ -12,7 +12,7 @@
   justify-content: space-between;
   align-items: center;
   padding: 16px;
-  margin: 10px;
+  margin: 40px;
   border-radius: 8px;
   background-color: #121212;
   padding: 12px;
@@ -137,7 +137,7 @@ background-color: transparent;
 .offer__list-item {
 display: grid;
 justify-items: center;
-grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+grid-template-columns: 1fr 1fr 1fr 1fr 1fr ;
 grid-gap: 16px;
 gap: 16px;
 margin-bottom: 16px;
